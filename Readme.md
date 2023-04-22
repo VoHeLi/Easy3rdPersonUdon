@@ -50,7 +50,7 @@ Do not touch the Internal parameters in the inspector!
 
 ## Known issues
 
-* The prefab may reduces FPS since it works with RenderTextures.
+* The prefab may reduce FPS since it works with RenderTextures.
 * Sometimes, the menu may not show properly, just switch back to first person mode, change avatar, move a bit and it should be fine.
 
 ## Advanced Information for developers
