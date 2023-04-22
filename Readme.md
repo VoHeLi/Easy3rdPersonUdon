@@ -14,6 +14,11 @@
 
 * Overall, the script provides a way to quickly and easily switch between first-person and third-person camera modes, with a number of customizable settings for both modes. It is designed to work within the VRChat environment, but could potentially be adapted for use in other applications or games.
 
+### Demo Video : 
+
+[<img src="https://i.ibb.co/Zc9HB0t/3rdpersonthumbnail.png" width="20%">](https://drive.google.com/file/d/1CtsqWGevlS4Op6z4t0R2UMJ9lHwa2pPb/view?usp=sharing "Easy3rdPersonUdon Demo Video")
+
+
 ## Default Controls
 
 * Use the Mouse Wheel Scroll to zoom towards your character in Third Person View (Front or Back).
